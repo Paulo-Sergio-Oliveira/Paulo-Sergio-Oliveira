@@ -45,7 +45,7 @@ Here are some of the main tools and technologies I actively work with or have ex
 
 ### 🛠️ Main Languages (Focus)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Sergio-Oliveira&layout=compact&theme=dark&hide=html,scss,css,shell,markdown)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs - Customizado](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Sergio-Oliveira&layout=compact&hide_progress=true&bg_color=00000000&title_color=09f&text_color=99a)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
