@@ -43,6 +43,10 @@ Here are some of the main tools and technologies I actively work with or have ex
 | **LinkedIn** | [See my profile!](https://www.linkedin.com/in/paulo-sergio-vieira-oliveira-695200281/?locale=pt) |
 | **Email** | paulosergiooliveira113@gmail.com |
 
+### 🛠️ Main Languages (Focus)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Sergio-Oliveira&layout=compact&theme=dark&hide=html,scss,css,shell,markdown)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ###### ✨ This README is maintained by Paulo Sergio Vieira Oliveira. Feel free to get in touch!
