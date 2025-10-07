@@ -14,11 +14,11 @@ Here are some of the main tools and technologies I actively work with or have ex
 
 | Category | Technologies |
 | :--- | :--- |
-| **Programming Languages** | `PHP` (Solid) | `JavaScript` | `Java` | `Go` | `C/C++` |
-| **Frameworks & Libraries** | `Laravel` (Solid) | `React` (Studying) | `No-Code (Bubble)` |
-| **Databases** | `MySQL` | `PostgreSQL` |
-| **Cloud & DevOps** | `AWS` (Basic) | `Git/GitHub` |
-| **Tools and Others** | `VS Code` | `NetBeans` | `Trello` |
+| **Programming Languages** | `PHP` (Solid), `JavaScript`, `Java`, `Go`, `C/C++` |
+| **Frameworks & Libraries** | `Laravel` (Solid), `React` (Studying), `No-Code (Bubble)` |
+| **Databases** | `MySQL`, `PostgreSQL` |
+| **Cloud & DevOps** | `AWS` (Basic), `Git/GitHub` |
+| **Tools and Others** | `VS Code`, `NetBeans`, `Trello` |
 
 ---
 
