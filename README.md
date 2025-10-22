@@ -1,4 +1,4 @@
-# Hello! I'm Paulo Sergio Vieira Oliveira 👋
+# Hello! I'm Paulo Sergio Vieira de Oliveira 👋
 
 ### Developer | Full Stack Web
 
@@ -49,4 +49,4 @@ Here are some of the main tools and technologies I actively work with or have ex
 
 ---
 
-###### ✨ This README is maintained by Paulo Sergio Vieira Oliveira. Feel free to get in touch!
+###### ✨ This README is maintained by Paulo Sergio Vieira de Oliveira. Feel free to get in touch!
